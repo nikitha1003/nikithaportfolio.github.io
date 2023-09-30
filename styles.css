@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(93, 0, 255);
+    color: blanchedalmond;
+    
+}
+#header{
+    height: 100px;
+    width: 100%;
+    background-image: url(/Users/nikitha/Desktop/back.png);
+    background-size: remove(width);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    
+}
